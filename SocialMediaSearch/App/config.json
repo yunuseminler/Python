@@ -1,0 +1,5 @@
+{
+    "Driver":"SQL Server",
+    "Server":"192.168.101.120",
+    "Database":"BIOCORE_TEST"
+}

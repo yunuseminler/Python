@@ -1,0 +1,1 @@
+Benim tarafımdan oluşturulmuş anahtar kelimeleri Twitter ve Ekşi sözlük siteleri içerisinde arayarak içeriğini olumlu veya olumsuz olarak işleyen ve sonuçları veri tabanına yazan bot.

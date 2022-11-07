@@ -1,0 +1,8 @@
+Proje dosyaları App klasörü içerisindedir. FormApp klasöründe ise projede kullanılan form uygulamasının kaynak kodları bulunmaktadır.
+
+Projenin çalışma adımları:
+1. Source.txt dosyasına anahtar kelimeler "," ile ayırarak yazılır.
+2. Config.json dosyasından database config yapılabilir.
+2. Program.exe uygulaması çalıştırılır.	
+3. Programın çalışması beklenir.
+4. Program sonlanır ve sonuçlar database'e yazılır.

@@ -1,0 +1,20 @@
+Python dosyalarını (.py) .exe olarak kaydetme
+1. Öncelikle pip aracılığı ile pyinstaller modülünü indirin ve kurun
+
+pip install pyinstaller
+NOT: Eğer pip yüklü değilse önce pip’i kurunuz
+
+2. Komut istemcisini(cmd) .py uzantılı dosyanızın olduğu yerde çalıştırın veya cd komutu ile dosyanızın bulunduğu dizine gidin.
+
+3. Aşağıdaki komut ile .py uzantılı dosyanızı .exe uzantılı dosyaya çeviriniz
+
+pyinstaller --onefile dosyaadi.py
+
+Bu proje için
+pyinstaller --onefile main.py
+
+NOT: --onefile ile sadece .exe uzantılı sonuç dosyasını alırsınız. --onefile kullanmazsanız .exe uzantılı dosyanızla beraber sistem dosyalarıda oluşturulacaktır.
+
+4. dist klasörü içindeki dosyaadi.exe dosyasını alın ve istediğiniz yerde kullanın.
+
+Böylece daha efektif ve etkileyici program yazmanın tadına varacaksınız. İyi kodlamalar..

@@ -1,0 +1,36 @@
+{
+    "mail":{
+        "to": ["emre.eminler@biofarma.com.tr"],
+        "cc": [""],
+        "bcc": [""],
+        "fromaddr": "software@biofarma.com.tr"
+    },
+    "smtp": 
+    {
+        "host": "smtp.biofarma.com.tr",
+        "port": "25"
+    },
+    "source":[
+        "Gabapentin",
+        "Klopidogrel",
+        "Kodein",
+        "Siprofloksasin",
+        "Parasetamol",
+        "Nitrofurantoin",
+        "Albendazol",
+        "Famotidin",
+        "Kafein",
+        "Klorfeniramin",
+        "Solifenasin",
+        "Olanzapin",
+        "Fluoksetin",
+        "Pirasetam",
+        "Donepezil",
+        "Memantin",
+        "Risperidon",
+        "Furosemid",
+        "Lansoprazol",
+        "Azitromisin",
+        "Tolterodin"
+    ]
+}
