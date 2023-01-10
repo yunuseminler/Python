@@ -1,0 +1,5 @@
+Program Çalışma Adımları
+
+1- Program çalıştırılır.
+2- Text girdisi girilir.
+3- Program şifrelenmiş Hash Kodu sonucu ekrana yazar.
